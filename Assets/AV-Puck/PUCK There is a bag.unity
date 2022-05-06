@@ -531,7 +531,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  stiffness: 0.327
+  stiffness: 0.412
   stiffnessCurve:
     serializedVersion: 2
     m_Curve: []
@@ -568,9 +568,10 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 0}
   limitType: 1
-  maxAngleX: 35
+  maxAngleX: 30
   maxAngleXCurve:
     serializedVersion: 2
     m_Curve: []
@@ -1131,7 +1132,6 @@ Transform:
   - {fileID: 1879244018}
   - {fileID: 1879244020}
   - {fileID: 908580353}
-  - {fileID: 1970443269}
   m_Father: {fileID: 1879243988}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3267,7 +3267,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   colliders:
-  - {fileID: 1970443268}
+  - {fileID: 0}
   limitType: 1
   maxAngleX: 129
   maxAngleXCurve:
@@ -3691,7 +3691,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  stiffness: 0.327
+  stiffness: 0.412
   stiffnessCurve:
     serializedVersion: 2
     m_Curve: []
@@ -3728,9 +3728,10 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  colliders: []
+  colliders:
+  - {fileID: 0}
   limitType: 1
-  maxAngleX: 35
+  maxAngleX: 30
   maxAngleXCurve:
     serializedVersion: 2
     m_Curve: []
@@ -3778,57 +3779,6 @@ MonoBehaviour:
   showGizmos: 1
   boneOpacity: 0.5
   limitOpacity: 0.5
---- !u!1 &1970443267
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1970443269}
-  - component: {fileID: 1970443268}
-  m_Layer: 0
-  m_Name: tail head collidinger
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1970443268
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1970443267}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1631200402, guid: 2a2c05204084d904aa4945ccff20d8e5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rootTransform: {fileID: 1970443269}
-  shapeType: 0
-  insideBounds: 0
-  radius: 0.08
-  height: 2
-  position: {x: 0, y: 0, z: 0}
-  rotation: {x: 0, y: 0, z: 0, w: 1}
-  bonesAsSpheres: 0
---- !u!4 &1970443269
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1970443267}
-  m_LocalRotation: {x: -0.70710677, y: 0.00000003090862, z: 0.00000003090862, w: 0.7071068}
-  m_LocalPosition: {x: -0.000005, y: 0.000049, z: -0.000144}
-  m_LocalScale: {x: 0.0033333332, y: 0.003333334, z: 0.003333334}
-  m_Children: []
-  m_Father: {fileID: 1879243958}
-  m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &237238399742951387
 GameObject:
   m_ObjectHideFlags: 0

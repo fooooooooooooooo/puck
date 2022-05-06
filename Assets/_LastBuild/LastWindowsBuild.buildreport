@@ -1,48 +1,1410 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1126 &-2181215634767786178
+--- !u!668709126 &-7362209077621499021
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab.unity3d
+    bundleArchiveFile: 2
+    packagedFileIndices: 0000000001000000
+  - bundleName: awa
+    bundleArchiveFile: 5
+    packagedFileIndices: 04000000
+--- !u!1126 &-5364548558381051922
 PackedAssets:
-  m_File: 1
-  m_ShortPath: CAB-3568a5968922208191f24fdb05a751ef.resS
-  m_Overhead: 0
+  m_File: 0
+  m_ShortPath: CAB-786621d2ffde0b0844d8fe049d6e659d
+  m_Overhead: 161070
   m_Contents:
-  - fileID: 0
+  - fileID: -9214409576635143983
+    classID: 1
+    packedSize: 35
+    offset: 161344
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -9059933908475162721
+    classID: 1
+    packedSize: 51
+    offset: 161384
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -8979637038948292012
+    classID: 1
+    packedSize: 43
+    offset: 161440
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -8769244620917763248
+    classID: 1
+    packedSize: 43
+    offset: 161488
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -8623319929086432292
     classID: 89
-    packedSize: 131232
-    offset: 0
+    packedSize: 272
+    offset: 161536
     sourceAssetGUID: 1f79f71b84fc2844bb81e9ae4f5bc384
     buildTimeAssetPath: Assets/_PoiyomiShaders/Textures/Defaults/T_Default_CM.exr
-  - fileID: 0
+  - fileID: -8558712313200658591
     classID: 28
-    packedSize: 2056
-    offset: 131232
+    packedSize: 204
+    offset: 161808
     sourceAssetGUID: 55bf75f2101eb6a46b154cd570748f7f
     buildTimeAssetPath: Assets/textures/Gradients/gradient_-1556852096.png
-  - fileID: 0
+  - fileID: -8457497935550268623
+    classID: 4
+    packedSize: 68
+    offset: 162016
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -8453878469035833461
+    classID: 4
+    packedSize: 68
+    offset: 162088
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -8372965459529498060
+    classID: 4
+    packedSize: 80
+    offset: 162160
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -8074938933423860320
+    classID: 115
+    packedSize: 132
+    offset: 160480
+    sourceAssetGUID: 67cc4cb7839cd3741b63733d5adf0442
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK3A.dll
+  - fileID: -8054984694346516641
+    classID: 4
+    packedSize: 68
+    offset: 162240
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -8027656536819886386
+    classID: 1
+    packedSize: 47
+    offset: 162312
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -7959117803322483289
+    classID: 4
+    packedSize: 92
+    offset: 162360
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -7856230137232310971
+    classID: 4
+    packedSize: 80
+    offset: 162456
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -7791551491071564175
+    classID: 1
+    packedSize: 35
+    offset: 162536
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -7664803546518040065
+    classID: 4
+    packedSize: 68
+    offset: 162576
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -7597824947507991476
+    classID: 115
+    packedSize: 96
+    offset: 160616
+    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCCore-Editor.dll
+  - fileID: -7582904745069828158
+    classID: 1
+    packedSize: 43
+    offset: 162648
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -7426353367897828518
+    classID: 1
+    packedSize: 43
+    offset: 162696
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -7418696002166700336
+    classID: 1
+    packedSize: 43
+    offset: 162744
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -7281977078936222732
+    classID: 1
+    packedSize: 39
+    offset: 162792
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -7229794241515320809
+    classID: 90
+    packedSize: 21084
+    offset: 162832
+    sourceAssetGUID: fca3f4bea7d36cc4ba10ccf737d56de9
+    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/puck.fbx
+  - fileID: -7142675814397868297
+    classID: 1
+    packedSize: 39
+    offset: 183920
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -7067552871645434185
+    classID: 74
+    packedSize: 2604
+    offset: 183960
+    sourceAssetGUID: 13afadf7a82ea5243baa9081aef285e2
+    buildTimeAssetPath: Assets/AV-Puck/Anim/Anim2.anim
+  - fileID: -6965963162203659555
+    classID: 4
+    packedSize: 68
+    offset: 186568
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -6858970104634587543
+    classID: 4
+    packedSize: 116
+    offset: 186640
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -6792777716803996104
+    classID: 4
+    packedSize: 92
+    offset: 186760
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -6401272745962940155
+    classID: 1
+    packedSize: 51
+    offset: 186856
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -6379976609626287324
+    classID: 114
+    packedSize: 412
+    offset: 186912
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -6359190533501374668
+    classID: 90
+    packedSize: 1292
+    offset: 187328
+    sourceAssetGUID: edaa7cc4691113c4d95a902e68467c13
+    buildTimeAssetPath: Assets/AV-Puck/Bag.fbx
+  - fileID: -6105170550863631454
+    classID: 114
+    packedSize: 32
+    offset: 188624
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -6082548609757335139
+    classID: 114
+    packedSize: 436
+    offset: 188656
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -5990330550995466988
+    classID: 114
+    packedSize: 92
+    offset: 189096
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -5858108634145898710
+    classID: 4
+    packedSize: 80
+    offset: 189192
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -5536983746529519538
+    classID: 91
+    packedSize: 8156
+    offset: 189272
+    sourceAssetGUID: 404d228aeae421f4590305bc4cdaba16
+    buildTimeAssetPath: Assets/VRCSDK/Examples3/Animation/Controllers/vrc_AvatarV3HandsLayer.controller
+  - fileID: -5460532667466584783
+    classID: 4
+    packedSize: 80
+    offset: 197432
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -5420216125833647913
+    classID: 4
+    packedSize: 104
+    offset: 197512
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -5413694425265379241
+    classID: 4
+    packedSize: 80
+    offset: 197616
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -5405725393464193512
+    classID: 95
+    packedSize: 56
+    offset: 197696
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -5297391879351765623
+    classID: 74
+    packedSize: 2328
+    offset: 197752
+    sourceAssetGUID: 1501e449614c00a439ae6d772244183e
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerColorRGB.anim
+  - fileID: -5179064162458760207
+    classID: 4
+    packedSize: 68
+    offset: 200080
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -5124026930989098899
+    classID: 4
+    packedSize: 80
+    offset: 200152
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -5108232526284950629
+    classID: 115
+    packedSize: 132
+    offset: 160712
+    sourceAssetGUID: 2a2c05204084d904aa4945ccff20d8e5
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRC.SDK3.Dynamics.PhysBone.dll
+  - fileID: -4974907640476665836
+    classID: 1
+    packedSize: 43
+    offset: 200232
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -4950353259215346850
+    classID: 43
+    packedSize: 18740
+    offset: 200280
+    sourceAssetGUID: edaa7cc4691113c4d95a902e68467c13
+    buildTimeAssetPath: Assets/AV-Puck/Bag.fbx
+  - fileID: -4886247844619687818
+    classID: 74
+    packedSize: 2404
+    offset: 219024
+    sourceAssetGUID: 27656764ae76ed34b898b2d30571fe85
+    buildTimeAssetPath: Assets/AV-Puck/Anim/Anim3.anim
+  - fileID: -4850512016903265157
+    classID: 48
+    packedSize: 281568
+    offset: 221432
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: -4830655472285551319
+    classID: 4
+    packedSize: 68
+    offset: 503000
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -4575711500538169507
+    classID: 137
+    packedSize: 1412
+    offset: 503072
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -4488182405481613561
+    classID: 1
+    packedSize: 47
+    offset: 504488
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -4382836275347948641
+    classID: 1
+    packedSize: 47
+    offset: 504536
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -4282853420367188819
+    classID: 74
+    packedSize: 5308
+    offset: 504584
+    sourceAssetGUID: 14980fc5fe40191418954549174fe63e
+    buildTimeAssetPath: Assets/VRCSDK/Examples3/Animation/ProxyAnim/proxy_hands_idle.anim
+  - fileID: -3889295955710584303
+    classID: 114
+    packedSize: 92
+    offset: 509896
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -3761158469226268529
+    classID: 1
+    packedSize: 35
+    offset: 509992
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -3722991985435868115
+    classID: 1
+    packedSize: 43
+    offset: 510032
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -3702895341350391838
+    classID: 48
+    packedSize: 4712
+    offset: 510080
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: -3608806535148577693
+    classID: 4
+    packedSize: 80
+    offset: 514792
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -3451767085741593237
+    classID: 48
+    packedSize: 43300
+    offset: 514872
+    sourceAssetGUID: 343c3f76732b1f944bc75be2013d4617
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerMaterials/RainbowTrail.shader
+  - fileID: -3420245346396424480
+    classID: 4
+    packedSize: 68
+    offset: 558176
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -3061184052844342593
+    classID: 1
+    packedSize: 39
+    offset: 558248
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -3047577539768598972
+    classID: 114
+    packedSize: 296
+    offset: 558288
+    sourceAssetGUID: dc5dee85299342a4ba64ee13e3b9ccb0
+    buildTimeAssetPath: Assets/QTMarker/QTMenuAssets/QTMarkerSubMenu.asset
+  - fileID: -2994564805436653959
+    classID: 4
+    packedSize: 68
+    offset: 558584
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -2835138355384144777
+    classID: 4
+    packedSize: 68
+    offset: 558656
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -2801225189944742847
+    classID: 48
+    packedSize: 296828
+    offset: 558728
+    sourceAssetGUID: cfe430153d9c7e043833c4027be2faea
+    buildTimeAssetPath: Assets/AV-Puck/Materials/OptimizedShaders/1/Shaders/S_Poiyomi_Toon.shader
+  - fileID: -2635612161777126714
+    classID: 4
+    packedSize: 68
+    offset: 855560
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -2599342587661894161
+    classID: 4
+    packedSize: 80
+    offset: 855632
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -2414866946134460028
     classID: 28
-    packedSize: 699064
-    offset: 133288
+    packedSize: 188
+    offset: 855712
     sourceAssetGUID: 5314960481fb50a448095e3388fe7ef6
     buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/Textures/1.png
-  - fileID: 0
+  - fileID: -2365547425859926962
+    classID: 21
+    packedSize: 548
+    offset: 855904
+    sourceAssetGUID: f81c1cfc55bccc44e9498f8eb517a5b8
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerMaterials/RainbowTrail.mat
+  - fileID: -2358437242493884509
+    classID: 4
+    packedSize: 68
+    offset: 856456
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -2266583631159721839
+    classID: 1
+    packedSize: 35
+    offset: 856528
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -2262020550531848120
+    classID: 1
+    packedSize: 35
+    offset: 856568
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -2210443630260845897
+    classID: 1
+    packedSize: 63
+    offset: 856608
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -2172848421049435324
+    classID: 4
+    packedSize: 80
+    offset: 856672
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -2044134469022206701
+    classID: 4
+    packedSize: 68
+    offset: 856752
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -1928502134250311836
+    classID: 4
+    packedSize: 68
+    offset: 856824
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -1897580096076340776
+    classID: 74
+    packedSize: 2340
+    offset: 856896
+    sourceAssetGUID: 37a934af3f84f294babc0b56e08561c4
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerIdle.anim
+  - fileID: -1791843003931994298
+    classID: 4
+    packedSize: 68
+    offset: 859240
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -1760540706192470045
+    classID: 74
+    packedSize: 2292
+    offset: 859312
+    sourceAssetGUID: 2d0d306244f6380408167e883126cf8d
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerClear.anim
+  - fileID: -1705936096595716113
     classID: 28
-    packedSize: 699064
-    offset: 832352
+    packedSize: 196
+    offset: 861608
     sourceAssetGUID: 02ea9f6d112aa4d4e994c27849a3e471
     buildTimeAssetPath: Assets/QTMarker/QTMarkerMaterials/loopRainbow.png
-  - fileID: 0
+  - fileID: -1686884659145454502
+    classID: 1
+    packedSize: 35
+    offset: 861808
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -1652533970477681307
+    classID: 1
+    packedSize: 51
+    offset: 861848
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -1611974351808601721
+    classID: 21
+    packedSize: 38304
+    offset: 861904
+    sourceAssetGUID: 293d06339fca5354eadccf9d390daeba
+    buildTimeAssetPath: Assets/AV-Puck/Materials/1.mat
+  - fileID: -1561776491917302504
+    classID: 1
+    packedSize: 43
+    offset: 900208
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -1553566539822497163
+    classID: 115
+    packedSize: 116
+    offset: 160848
+    sourceAssetGUID: 67cc4cb7839cd3741b63733d5adf0442
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK3A.dll
+  - fileID: -1500936055912077588
+    classID: 114
+    packedSize: 584
+    offset: 900256
+    sourceAssetGUID: 3e4a0aebf7c3055458d6f6857a88e913
+    buildTimeAssetPath: Assets/QTMarker/QTMenuAssets/BaseEmotes/BaseVRCEmotes.asset
+  - fileID: -1458326666659750067
+    classID: 4
+    packedSize: 68
+    offset: 900840
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -1452469126767172285
+    classID: 4
+    packedSize: 68
+    offset: 900912
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -1359488150499973141
+    classID: 1
+    packedSize: 35
+    offset: 900984
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -1027015914331032823
     classID: 28
-    packedSize: 699064
-    offset: 1531416
+    packedSize: 876
+    offset: 901024
+    sourceAssetGUID: 61bd594533da4fc42bd46ef93ba5a4f6
+    buildTimeAssetPath: Assets/_PoiyomiShaders/Textures/Defaults/T_Default_SR.png
+  - fileID: -978971820564025415
+    classID: 1
+    packedSize: 31
+    offset: 901904
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -914708415679514663
+    classID: 1
+    packedSize: 39
+    offset: 901936
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -745229517434146310
+    classID: 1
+    packedSize: 39
+    offset: 901976
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -662226120045146536
+    classID: 1
+    packedSize: 31
+    offset: 902016
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -608555997395373613
+    classID: 4
+    packedSize: 68
+    offset: 902048
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -564155019713911431
+    classID: 1
+    packedSize: 35
+    offset: 902120
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -557308840086061787
+    classID: 4
+    packedSize: 68
+    offset: 902160
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -551412877253037840
+    classID: 1
+    packedSize: 55
+    offset: 902232
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -550223211893996666
+    classID: 114
+    packedSize: 472
+    offset: 902288
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -359510950865281007
+    classID: 1
+    packedSize: 43
+    offset: 902760
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -269767118894211579
+    classID: 4
+    packedSize: 68
+    offset: 902808
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -219166515561867478
+    classID: 1
+    packedSize: 39
+    offset: 902880
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -199597743486464673
+    classID: 1
+    packedSize: 35
+    offset: 902920
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -151281164330013743
+    classID: 114
+    packedSize: 404
+    offset: 902960
+    sourceAssetGUID: b14972b2a52d0d745814b668b8a9824f
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerExpressionParameters.asset
+  - fileID: -103669157239400898
+    classID: 4
+    packedSize: 68
+    offset: 903368
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -83911826767521419
+    classID: 4
+    packedSize: 80
+    offset: 903440
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: -69423355289145943
+    classID: 1
+    packedSize: 59
+    offset: 903520
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 1
+    classID: 142
+    packedSize: 2964
+    offset: 903584
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 118357558325146711
+    classID: 115
+    packedSize: 92
+    offset: 160968
+    sourceAssetGUID: db48663b319a020429e3b1265f97aff1
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDKBase.dll
+  - fileID: 208771728732210128
+    classID: 1
+    packedSize: 51
+    offset: 906552
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 210844912991235567
+    classID: 1
+    packedSize: 31
+    offset: 906608
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 237110929954877170
+    classID: 43
+    packedSize: 1245704
+    offset: 906640
+    sourceAssetGUID: fca3f4bea7d36cc4ba10ccf737d56de9
+    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/puck.fbx
+  - fileID: 342296966446461270
+    classID: 114
+    packedSize: 100
+    offset: 2152344
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 619012429672427163
+    classID: 74
+    packedSize: 2364
+    offset: 2152448
+    sourceAssetGUID: 42ce0d7768c853148b5321d1ea47846f
+    buildTimeAssetPath: Assets/AV-Puck/Anim/Anim1.anim
+  - fileID: 625344903587479910
+    classID: 4
+    packedSize: 80
+    offset: 2154816
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 700304045907490277
+    classID: 43
+    packedSize: 30096
+    offset: 2154896
+    sourceAssetGUID: edaa7cc4691113c4d95a902e68467c13
+    buildTimeAssetPath: Assets/AV-Puck/Bag.fbx
+  - fileID: 958462172917211243
+    classID: 1
+    packedSize: 179
+    offset: 2184992
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 1018926578219402822
+    classID: 1
+    packedSize: 39
+    offset: 2185176
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 1085082252053365064
+    classID: 4
+    packedSize: 80
+    offset: 2185216
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 1144869520610211324
+    classID: 28
+    packedSize: 188
+    offset: 2185296
     sourceAssetGUID: 9ef89e0e946c9cc42b30f47b19d25174
     buildTimeAssetPath: Assets/AV-Puck/1.png
-  - fileID: 0
+  - fileID: 1149689128436159027
+    classID: 114
+    packedSize: 2456
+    offset: 2185488
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 1176722866481992443
+    classID: 48
+    packedSize: 460852
+    offset: 2187944
+    sourceAssetGUID: e1d2a89d8c07d584db59045bdc1286bc
+    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/Materials/OptimizedShaders/eye/Shaders/S_Poiyomi_Toon.shader
+  - fileID: 1283658293783060947
+    classID: 4
+    packedSize: 68
+    offset: 2648800
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 1378098076110552790
+    classID: 4
+    packedSize: 80
+    offset: 2648872
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 1676896088010906963
+    classID: 4
+    packedSize: 80
+    offset: 2648952
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 1821408126702769928
+    classID: 1
+    packedSize: 39
+    offset: 2649032
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 1940759595067277595
+    classID: 4
+    packedSize: 188
+    offset: 2649072
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 2007431164783611061
+    classID: 1
+    packedSize: 43
+    offset: 2649264
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 2086464163703772295
+    classID: 1
+    packedSize: 35
+    offset: 2649312
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 2182994837099999305
+    classID: 114
+    packedSize: 496
+    offset: 2649352
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 2611914022364218466
+    classID: 1
+    packedSize: 39
+    offset: 2649848
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 2744163024035425106
+    classID: 4
+    packedSize: 68
+    offset: 2649888
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 2771077194348427462
+    classID: 4
+    packedSize: 80
+    offset: 2649960
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 2848820294040748077
+    classID: 4
+    packedSize: 68
+    offset: 2650040
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 3046559115101997552
+    classID: 74
+    packedSize: 2648
+    offset: 2650112
+    sourceAssetGUID: 2550faa91be2bf94c84bb6aee0e1cc32
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTColorWheel0.anim
+  - fileID: 3078769727094510758
+    classID: 1
+    packedSize: 35
+    offset: 2652760
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 3303074147113004675
+    classID: 4
+    packedSize: 68
+    offset: 2652800
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 3455317696892252835
+    classID: 21
+    packedSize: 1192
+    offset: 2652872
+    sourceAssetGUID: 9392597b64333d348ae9b39e3e95c086
+    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/Materials/Highlight.mat
+  - fileID: 3468001796917322737
+    classID: 4
+    packedSize: 68
+    offset: 2654064
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 3504606221289134152
+    classID: 4
+    packedSize: 80
+    offset: 2654136
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 3554325844201844590
+    classID: 114
+    packedSize: 92
+    offset: 2654216
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 3562458961579798772
+    classID: 1
+    packedSize: 35
+    offset: 2654312
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 3723407786733778983
+    classID: 1
+    packedSize: 55
+    offset: 2654352
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 3814007659067704032
+    classID: 4
+    packedSize: 80
+    offset: 2654408
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 3850772033015809772
+    classID: 21
+    packedSize: 38516
+    offset: 2654488
+    sourceAssetGUID: 6fa8df522cac9ce4b8ccffd21717aa24
+    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/Materials/eye.mat
+  - fileID: 3948326937300709084
+    classID: 1
+    packedSize: 35
+    offset: 2693008
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 3951612310993216430
+    classID: 74
+    packedSize: 2340
+    offset: 2693048
+    sourceAssetGUID: e110abbc62c1fa345953021b46b7ef42
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerOff.anim
+  - fileID: 4048334203290246309
+    classID: 137
+    packedSize: 220
+    offset: 2695392
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 4224398296633647123
+    classID: 4
+    packedSize: 68
+    offset: 2695616
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 4258694147733277033
+    classID: 4
+    packedSize: 128
+    offset: 2695688
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 4487137122730711116
+    classID: 1
+    packedSize: 39
+    offset: 2695816
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 4587683770666235815
+    classID: 1
+    packedSize: 47
+    offset: 2695856
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 4592235186029974507
+    classID: 1
+    packedSize: 47
+    offset: 2695904
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 4617709841742745169
+    classID: 1
+    packedSize: 35
+    offset: 2695952
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 4850848389488032366
+    classID: 114
+    packedSize: 92
+    offset: 2695992
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 4891369089329660701
+    classID: 4
+    packedSize: 128
+    offset: 2696088
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5113287165981135289
+    classID: 21
+    packedSize: 38516
+    offset: 2696216
+    sourceAssetGUID: 4b7ed6ab5e121b84b99190600d3935ab
+    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/Materials/1.mat
+  - fileID: 5144643877343187679
+    classID: 4
+    packedSize: 80
+    offset: 2734736
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5316575529232283316
+    classID: 114
+    packedSize: 436
+    offset: 2734816
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5401174043284539191
+    classID: 96
+    packedSize: 406
+    offset: 2735256
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5417929448704177547
+    classID: 1
+    packedSize: 43
+    offset: 2735664
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5476425169530432453
+    classID: 4
+    packedSize: 68
+    offset: 2735712
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5513300390122598907
+    classID: 1
+    packedSize: 39
+    offset: 2735784
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5518880496847144299
+    classID: 1
+    packedSize: 39
+    offset: 2735824
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5669608448119947658
+    classID: 4
+    packedSize: 68
+    offset: 2735864
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5702007027894507105
+    classID: 4
+    packedSize: 68
+    offset: 2735936
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5710399863427562571
+    classID: 4
+    packedSize: 68
+    offset: 2736008
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5914310161815366306
+    classID: 4
+    packedSize: 68
+    offset: 2736080
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5961151502719374467
+    classID: 1
+    packedSize: 39
+    offset: 2736152
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 5980298345966668120
+    classID: 4
+    packedSize: 68
+    offset: 2736192
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 6098862368087470867
+    classID: 74
+    packedSize: 5308
+    offset: 2736264
+    sourceAssetGUID: fe8651e0359eacb49af5f71cc04eadd5
+    buildTimeAssetPath: Assets/VRCSDK/Examples3/Animation/ProxyAnim/proxy_hands_gun.anim
+  - fileID: 6346244367623784677
+    classID: 74
+    packedSize: 5316
+    offset: 2741576
+    sourceAssetGUID: 9bad171d3023a114c8f42ea671be2af4
+    buildTimeAssetPath: Assets/VRCSDK/Examples3/Animation/ProxyAnim/proxy_hands_thumbs_up.anim
+  - fileID: 6356661364474958765
+    classID: 1
+    packedSize: 39
+    offset: 2746896
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 6417174746727499982
+    classID: 1
+    packedSize: 47
+    offset: 2746936
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 6451555879336322112
+    classID: 4
+    packedSize: 80
+    offset: 2746984
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 6490822350078191457
+    classID: 1
+    packedSize: 43
+    offset: 2747064
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 6595337284553636016
+    classID: 1
+    packedSize: 47
+    offset: 2747112
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 6655669089997790886
+    classID: 1
+    packedSize: 39
+    offset: 2747160
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 6684947850343947283
+    classID: 4
+    packedSize: 80
+    offset: 2747200
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 6781242144949300749
+    classID: 4
+    packedSize: 128
+    offset: 2747280
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 6988027200642279942
+    classID: 114
+    packedSize: 436
+    offset: 2747408
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7005889489654129681
+    classID: 4
+    packedSize: 80
+    offset: 2747848
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7052045716443268426
+    classID: 1
+    packedSize: 31
+    offset: 2747928
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7118234083916260877
+    classID: 4
+    packedSize: 80
+    offset: 2747960
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7136392761917013211
+    classID: 1
+    packedSize: 35
+    offset: 2748040
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7283823348608475732
+    classID: 4
+    packedSize: 68
+    offset: 2748080
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7289810947120250230
+    classID: 1
+    packedSize: 39
+    offset: 2748152
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7324287963436993797
+    classID: 114
+    packedSize: 92
+    offset: 2748192
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7373022415049994816
+    classID: 1773428102
+    packedSize: 104
+    offset: 2748288
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7549229536068720738
+    classID: 4
+    packedSize: 80
+    offset: 2748392
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7580078639875442304
+    classID: 74
+    packedSize: 2340
+    offset: 2748472
+    sourceAssetGUID: df4d83c6e815fb046bde67e78124bc8c
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerOn.anim
+  - fileID: 7581135547182998993
+    classID: 4
+    packedSize: 140
+    offset: 2750816
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7683107494663308032
+    classID: 4
+    packedSize: 104
+    offset: 2750960
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7725630135013242510
+    classID: 1
+    packedSize: 39
+    offset: 2751064
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7765072076525252331
+    classID: 4
+    packedSize: 80
+    offset: 2751104
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7802657991930603847
+    classID: 74
+    packedSize: 2232
+    offset: 2751184
+    sourceAssetGUID: 8e2ea5507baf67f4ba5c67a14083a370
+    buildTimeAssetPath: Assets/AV-Puck/Anim/Bag.anim
+  - fileID: 7898014957946466081
+    classID: 95
+    packedSize: 56
+    offset: 2753416
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7915061470911060053
+    classID: 1
+    packedSize: 51
+    offset: 2753472
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 7947865042061579775
+    classID: 48
+    packedSize: 460500
+    offset: 2753528
+    sourceAssetGUID: 2953f9af801b609449d394f91a154e7c
+    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/Materials/OptimizedShaders/1/Shaders/S_Poiyomi_Toon.shader
+  - fileID: 8097945838085573344
+    classID: 21
+    packedSize: 23204
+    offset: 3214032
+    sourceAssetGUID: 7f7bb1a23f4f3ac4cb962ca163962716
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerMaterials/FlatColorTrail.mat
+  - fileID: 8119258407934241856
+    classID: 4
+    packedSize: 80
+    offset: 3237240
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 8143420519928566493
+    classID: 115
+    packedSize: 148
+    offset: 161064
+    sourceAssetGUID: 2a2c05204084d904aa4945ccff20d8e5
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRC.SDK3.Dynamics.PhysBone.dll
+  - fileID: 8185896346591342612
+    classID: 74
+    packedSize: 2604
+    offset: 3237320
+    sourceAssetGUID: 06a549f339463f64e842f87394da29f7
+    buildTimeAssetPath: Assets/AV-Puck/Anim/Anim4.anim
+  - fileID: 8268836203660554979
+    classID: 115
+    packedSize: 124
+    offset: 161216
+    sourceAssetGUID: 67cc4cb7839cd3741b63733d5adf0442
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK3A.dll
+  - fileID: 8276216566799580320
     classID: 28
-    packedSize: 699064
-    offset: 2230480
+    packedSize: 192
+    offset: 3239928
     sourceAssetGUID: 2c9b1fc62caa05245b2d5691922ed7e9
     buildTimeAssetPath: Assets/_PoiyomiShaders/Textures/Fur/Fur (3).jpg
---- !u!1126 &-1563998697771131512
+  - fileID: 8336922556715100248
+    classID: 4
+    packedSize: 68
+    offset: 3240120
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 8450263922471785598
+    classID: 74
+    packedSize: 2344
+    offset: 3240192
+    sourceAssetGUID: c864eaafd377ac4479a6b1ea0d5c9a8b
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerInking.anim
+  - fileID: 8503859686166004887
+    classID: 1
+    packedSize: 35
+    offset: 3242536
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 8552943401453163114
+    classID: 1
+    packedSize: 35
+    offset: 3242576
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 8578107008981638695
+    classID: 74
+    packedSize: 2648
+    offset: 3242616
+    sourceAssetGUID: 3ca6f87edbbebea49a6500c8311a36d1
+    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTColorWheel1.anim
+  - fileID: 8768519895897009979
+    classID: 4
+    packedSize: 80
+    offset: 3245264
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 8803763395276896198
+    classID: 1
+    packedSize: 39
+    offset: 3245344
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 8834793443124703837
+    classID: 1
+    packedSize: 35
+    offset: 3245384
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 8900715720801234363
+    classID: 4
+    packedSize: 68
+    offset: 3245424
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 9050261187669852447
+    classID: 137
+    packedSize: 220
+    offset: 3245496
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 9055135820302631652
+    classID: 1
+    packedSize: 47
+    offset: 3245720
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 9098526315650637866
+    classID: 4
+    packedSize: 80
+    offset: 3245768
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 9143068456526603616
+    classID: 1
+    packedSize: 35
+    offset: 3245848
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 9168182048337364003
+    classID: 1
+    packedSize: 51
+    offset: 3245888
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+  - fileID: 9203328812604626913
+    classID: 1
+    packedSize: 43
+    offset: 3245944
+    sourceAssetGUID: bb0d4cded71c0224a8fc1ad5d8b53e09
+    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LastWindowsBuild
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 637874100001033368
+    buildGUID: 00000000000000000000000000000000
+    platformName: Win64
+    platformGroupName: 
+    options: 0
+    assetBundleOptions: 0
+    outputPath: C:/Users/nya/AppData/Local/Temp/DefaultCompany/awa
+    crc: 0
+    totalSize: 992535
+    totalTimeTicks: 158022548
+    totalErrors: 0
+    totalWarnings: 0
+    buildType: 2
+    buildResult: 1
+  m_Files:
+  - path: C:/Users/nya/puck/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab.unity3d/CAB-786621d2ffde0b0844d8fe049d6e659d
+    role: SharedAssets
+    id: 0
+    totalSize: 3245987
+  - path: C:/Users/nya/puck/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab.unity3d/CAB-786621d2ffde0b0844d8fe049d6e659d.resS
+    role: StreamingResourceFile
+    id: 1
+    totalSize: 538712
+  - path: C:/Users/nya/puck/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab.unity3d
+    role: AssetBundle
+    id: 2
+    totalSize: 989614
+  - path: C:/Users/nya/puck/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab.unity3d.manifest
+    role: AssetBundleTextManifest
+    id: 3
+    totalSize: 1621
+  - path: C:/Users/nya/puck/awa/CAB-492f977efc55d9b4db6d86b69c216fac
+    role: ResourcesFile
+    id: 4
+    totalSize: 4348
+  - path: C:/Users/nya/puck/awa
+    role: ManifestAssetBundle
+    id: 5
+    totalSize: 1092
+  - path: C:/Users/nya/puck/awa.manifest
+    role: AssetBundleTextManifest
+    id: 6
+    totalSize: 208
+  m_BuildSteps:
+  - stepName: Build Asset Bundles
+    durationTicks: 158022548
+    depth: 0
+    messages: []
+  - stepName: Calculate asset bundles to be built
+    durationTicks: 66363
+    depth: 1
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 26284657
+    depth: 1
+    messages: []
+  - stepName: 'Build bundle: prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_5896467156.prefab.unity3d'
+    durationTicks: 103060286
+    depth: 1
+    messages: []
+  m_Appendices:
+  - {fileID: -7362209077621499021}
+  - {fileID: -5364548558381051922}
+  - {fileID: 5667399296688968071}
+  - {fileID: 5422579228556416672}
+--- !u!1126 &5422579228556416672
 PackedAssets:
   m_File: 4
   m_ShortPath: CAB-492f977efc55d9b4db6d86b69c216fac
@@ -60,1395 +1422,45 @@ PackedAssets:
     offset: 4200
     sourceAssetGUID: 00000000000000000000000000000000
     buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
---- !u!1125 &1
-BuildReport:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: LastWindowsBuild
-  m_Summary:
-    buildStartTime:
-      serializedVersion: 2
-      ticks: 637874096305500865
-    buildGUID: 00000000000000000000000000000000
-    platformName: Win64
-    platformGroupName: 
-    options: 0
-    assetBundleOptions: 0
-    outputPath: C:/Users/nya/AppData/Local/Temp/DefaultCompany/awa
-    crc: 0
-    totalSize: 1169002
-    totalTimeTicks: 174404228
-    totalErrors: 0
-    totalWarnings: 0
-    buildType: 2
-    buildResult: 1
-  m_Files:
-  - path: C:/Users/nya/puck/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab.unity3d/CAB-3568a5968922208191f24fdb05a751ef
-    role: SharedAssets
-    id: 0
-    totalSize: 2758620
-  - path: C:/Users/nya/puck/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab.unity3d/CAB-3568a5968922208191f24fdb05a751ef.resS
-    role: StreamingResourceFile
-    id: 1
-    totalSize: 2929544
-  - path: C:/Users/nya/puck/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab.unity3d
-    role: AssetBundle
-    id: 2
-    totalSize: 1166081
-  - path: C:/Users/nya/puck/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab.unity3d.manifest
-    role: AssetBundleTextManifest
-    id: 3
-    totalSize: 1622
-  - path: C:/Users/nya/puck/awa/CAB-492f977efc55d9b4db6d86b69c216fac
-    role: ResourcesFile
-    id: 4
-    totalSize: 4348
-  - path: C:/Users/nya/puck/awa
-    role: ManifestAssetBundle
-    id: 5
-    totalSize: 1092
-  - path: C:/Users/nya/puck/awa.manifest
-    role: AssetBundleTextManifest
-    id: 6
-    totalSize: 207
-  m_BuildSteps:
-  - stepName: Build Asset Bundles
-    durationTicks: 174404228
-    depth: 0
-    messages: []
-  - stepName: Calculate asset bundles to be built
-    durationTicks: 201367
-    depth: 1
-    messages: []
-  - stepName: Compile scripts
-    durationTicks: 25219883
-    depth: 1
-    messages: []
-  - stepName: 'Build bundle: prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab.unity3d'
-    durationTicks: 120819005
-    depth: 1
-    messages: []
-  m_Appendices:
-  - {fileID: 7266629691685965762}
-  - {fileID: 437881719444052809}
-  - {fileID: -2181215634767786178}
-  - {fileID: -1563998697771131512}
---- !u!1126 &437881719444052809
+--- !u!1126 &5667399296688968071
 PackedAssets:
-  m_File: 0
-  m_ShortPath: CAB-3568a5968922208191f24fdb05a751ef
-  m_Overhead: 161031
+  m_File: 1
+  m_ShortPath: CAB-786621d2ffde0b0844d8fe049d6e659d.resS
+  m_Overhead: 4
   m_Contents:
-  - fileID: -9213514313655983700
-    classID: 4
-    packedSize: 68
-    offset: 161312
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -9155460224581843773
-    classID: 4
-    packedSize: 68
-    offset: 161384
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -9070656866519239296
-    classID: 1
-    packedSize: 43
-    offset: 161456
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -8988869517505346101
-    classID: 1
-    packedSize: 35
-    offset: 161504
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -8886404196172332001
-    classID: 4
-    packedSize: 80
-    offset: 161544
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -8804656141435300671
-    classID: 1
-    packedSize: 59
-    offset: 161624
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -8623319929086432292
+  - fileID: 0
     classID: 89
-    packedSize: 272
-    offset: 161688
+    packedSize: 131232
+    offset: 0
     sourceAssetGUID: 1f79f71b84fc2844bb81e9ae4f5bc384
     buildTimeAssetPath: Assets/_PoiyomiShaders/Textures/Defaults/T_Default_CM.exr
-  - fileID: -8558712313200658591
+  - fileID: 0
     classID: 28
-    packedSize: 204
-    offset: 161960
+    packedSize: 2056
+    offset: 131232
     sourceAssetGUID: 55bf75f2101eb6a46b154cd570748f7f
     buildTimeAssetPath: Assets/textures/Gradients/gradient_-1556852096.png
-  - fileID: -8074938933423860320
-    classID: 115
-    packedSize: 132
-    offset: 160448
-    sourceAssetGUID: 67cc4cb7839cd3741b63733d5adf0442
-    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK3A.dll
-  - fileID: -8010933350994443236
-    classID: 1
-    packedSize: 39
-    offset: 162168
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -7880606028113480475
-    classID: 1
-    packedSize: 55
-    offset: 162208
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -7734316456341908708
-    classID: 1
-    packedSize: 35
-    offset: 162264
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -7597824947507991476
-    classID: 115
-    packedSize: 96
-    offset: 160584
-    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
-    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCCore-Editor.dll
-  - fileID: -7229794241515320809
-    classID: 90
-    packedSize: 21084
-    offset: 162304
-    sourceAssetGUID: fca3f4bea7d36cc4ba10ccf737d56de9
-    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/puck.fbx
-  - fileID: -7067552871645434185
-    classID: 74
-    packedSize: 2604
-    offset: 183392
-    sourceAssetGUID: 13afadf7a82ea5243baa9081aef285e2
-    buildTimeAssetPath: Assets/AV-Puck/Anim/Anim2.anim
-  - fileID: -6938552840442331530
-    classID: 1
-    packedSize: 63
-    offset: 186000
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -6868334273136662393
-    classID: 4
-    packedSize: 80
-    offset: 186064
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -6692953086400283565
-    classID: 1
-    packedSize: 39
-    offset: 186144
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -6677673203805417039
-    classID: 1
-    packedSize: 47
-    offset: 186184
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -6519618520644503363
-    classID: 1
-    packedSize: 31
-    offset: 186232
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -6490776495638599207
-    classID: 1
-    packedSize: 47
-    offset: 186264
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -6384299155974265550
-    classID: 4
-    packedSize: 68
-    offset: 186312
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -6359190533501374668
-    classID: 90
-    packedSize: 1292
-    offset: 186384
-    sourceAssetGUID: edaa7cc4691113c4d95a902e68467c13
-    buildTimeAssetPath: Assets/AV-Puck/Bag.fbx
-  - fileID: -6245797872790226804
-    classID: 4
-    packedSize: 68
-    offset: 187680
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -6052974491147597388
-    classID: 1
-    packedSize: 39
-    offset: 187752
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -6037630180841152935
-    classID: 1
-    packedSize: 35
-    offset: 187792
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -5934581975303409754
-    classID: 1
-    packedSize: 51
-    offset: 187832
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -5851401768133916314
-    classID: 4
-    packedSize: 80
-    offset: 187888
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -5789494342683715257
-    classID: 114
-    packedSize: 436
-    offset: 187968
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -5681248101656409958
-    classID: 1773428102
-    packedSize: 104
-    offset: 188408
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -5536983746529519538
-    classID: 91
-    packedSize: 8156
-    offset: 188512
-    sourceAssetGUID: 404d228aeae421f4590305bc4cdaba16
-    buildTimeAssetPath: Assets/VRCSDK/Examples3/Animation/Controllers/vrc_AvatarV3HandsLayer.controller
-  - fileID: -5456156204745491138
-    classID: 1
-    packedSize: 51
-    offset: 196672
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -5297391879351765623
-    classID: 74
-    packedSize: 2328
-    offset: 196728
-    sourceAssetGUID: 1501e449614c00a439ae6d772244183e
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerColorRGB.anim
-  - fileID: -5173571131389506093
-    classID: 4
-    packedSize: 68
-    offset: 199056
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -5151495150472799820
-    classID: 1
-    packedSize: 35
-    offset: 199128
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -5109914714736373938
-    classID: 4
-    packedSize: 68
-    offset: 199168
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -5108232526284950629
-    classID: 115
-    packedSize: 132
-    offset: 160680
-    sourceAssetGUID: 2a2c05204084d904aa4945ccff20d8e5
-    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRC.SDK3.Dynamics.PhysBone.dll
-  - fileID: -5060807960561470493
-    classID: 4
-    packedSize: 68
-    offset: 199240
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -4994163260016485464
-    classID: 1
-    packedSize: 35
-    offset: 199312
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -4983897171750569038
-    classID: 4
-    packedSize: 140
-    offset: 199352
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -4950353259215346850
-    classID: 43
-    packedSize: 18740
-    offset: 199496
-    sourceAssetGUID: edaa7cc4691113c4d95a902e68467c13
-    buildTimeAssetPath: Assets/AV-Puck/Bag.fbx
-  - fileID: -4886247844619687818
-    classID: 74
-    packedSize: 2404
-    offset: 218240
-    sourceAssetGUID: 27656764ae76ed34b898b2d30571fe85
-    buildTimeAssetPath: Assets/AV-Puck/Anim/Anim3.anim
-  - fileID: -4850512016903265157
-    classID: 48
-    packedSize: 281568
-    offset: 220648
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: -4757618399814378968
-    classID: 1
-    packedSize: 35
-    offset: 502216
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -4723554444351265769
-    classID: 1
-    packedSize: 35
-    offset: 502256
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -4518559599065317220
-    classID: 1
-    packedSize: 39
-    offset: 502296
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -4282853420367188819
-    classID: 74
-    packedSize: 5308
-    offset: 502336
-    sourceAssetGUID: 14980fc5fe40191418954549174fe63e
-    buildTimeAssetPath: Assets/VRCSDK/Examples3/Animation/ProxyAnim/proxy_hands_idle.anim
-  - fileID: -3821221550854740077
-    classID: 4
-    packedSize: 80
-    offset: 507648
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -3774466592173286126
-    classID: 1
-    packedSize: 35
-    offset: 507728
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -3702895341350391838
-    classID: 48
-    packedSize: 4712
-    offset: 507768
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: -3451767085741593237
-    classID: 48
-    packedSize: 43300
-    offset: 512480
-    sourceAssetGUID: 343c3f76732b1f944bc75be2013d4617
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerMaterials/RainbowTrail.shader
-  - fileID: -3391033114365526513
-    classID: 4
-    packedSize: 80
-    offset: 555784
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -3047577539768598972
-    classID: 114
-    packedSize: 296
-    offset: 555864
-    sourceAssetGUID: dc5dee85299342a4ba64ee13e3b9ccb0
-    buildTimeAssetPath: Assets/QTMarker/QTMenuAssets/QTMarkerSubMenu.asset
-  - fileID: -3026087803324994765
-    classID: 1
-    packedSize: 47
-    offset: 556160
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2969585474619124565
-    classID: 1
-    packedSize: 35
-    offset: 556208
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2896551753355678647
-    classID: 1
-    packedSize: 51
-    offset: 556248
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2870387391711126776
-    classID: 4
-    packedSize: 68
-    offset: 556304
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2801225189944742847
-    classID: 48
-    packedSize: 296828
-    offset: 556376
-    sourceAssetGUID: cfe430153d9c7e043833c4027be2faea
-    buildTimeAssetPath: Assets/AV-Puck/Materials/OptimizedShaders/1/Shaders/S_Poiyomi_Toon.shader
-  - fileID: -2793439958775184105
-    classID: 1
-    packedSize: 47
-    offset: 853208
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2478890887649510886
-    classID: 1
-    packedSize: 35
-    offset: 853256
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2414866946134460028
+  - fileID: 0
     classID: 28
-    packedSize: 188
-    offset: 853296
+    packedSize: 49788
+    offset: 133288
     sourceAssetGUID: 5314960481fb50a448095e3388fe7ef6
     buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/Textures/1.png
-  - fileID: -2385809726226997374
-    classID: 1
-    packedSize: 39
-    offset: 853488
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2365547425859926962
-    classID: 21
-    packedSize: 548
-    offset: 853528
-    sourceAssetGUID: f81c1cfc55bccc44e9498f8eb517a5b8
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerMaterials/RainbowTrail.mat
-  - fileID: -2221113627380184664
-    classID: 4
-    packedSize: 68
-    offset: 854080
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2200219956979997902
-    classID: 1
-    packedSize: 39
-    offset: 854152
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2195861617714308994
-    classID: 137
-    packedSize: 220
-    offset: 854192
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2193451728906203896
-    classID: 1
-    packedSize: 43
-    offset: 854416
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2159781605493727732
-    classID: 4
-    packedSize: 68
-    offset: 854464
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -2077126118537397092
-    classID: 1
-    packedSize: 39
-    offset: 854536
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1998633741290159356
-    classID: 1
-    packedSize: 47
-    offset: 854576
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1973502400912761095
-    classID: 4
-    packedSize: 80
-    offset: 854624
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1897580096076340776
-    classID: 74
-    packedSize: 2340
-    offset: 854704
-    sourceAssetGUID: 37a934af3f84f294babc0b56e08561c4
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerIdle.anim
-  - fileID: -1878620558936155569
-    classID: 4
-    packedSize: 68
-    offset: 857048
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1760540706192470045
-    classID: 74
-    packedSize: 2292
-    offset: 857120
-    sourceAssetGUID: 2d0d306244f6380408167e883126cf8d
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerClear.anim
-  - fileID: -1720581726067805121
-    classID: 1
-    packedSize: 39
-    offset: 859416
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1705936096595716113
+  - fileID: 0
     classID: 28
-    packedSize: 196
-    offset: 859456
+    packedSize: 104155
+    offset: 183076
     sourceAssetGUID: 02ea9f6d112aa4d4e994c27849a3e471
     buildTimeAssetPath: Assets/QTMarker/QTMarkerMaterials/loopRainbow.png
-  - fileID: -1661499220175984883
-    classID: 1
-    packedSize: 43
-    offset: 859656
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1634858372405855869
-    classID: 4
-    packedSize: 68
-    offset: 859704
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1611974351808601721
-    classID: 21
-    packedSize: 38304
-    offset: 859776
-    sourceAssetGUID: 293d06339fca5354eadccf9d390daeba
-    buildTimeAssetPath: Assets/AV-Puck/Materials/1.mat
-  - fileID: -1553566539822497163
-    classID: 115
-    packedSize: 116
-    offset: 160816
-    sourceAssetGUID: 67cc4cb7839cd3741b63733d5adf0442
-    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK3A.dll
-  - fileID: -1500936055912077588
-    classID: 114
-    packedSize: 584
-    offset: 898080
-    sourceAssetGUID: 3e4a0aebf7c3055458d6f6857a88e913
-    buildTimeAssetPath: Assets/QTMarker/QTMenuAssets/BaseEmotes/BaseVRCEmotes.asset
-  - fileID: -1406773681359899909
-    classID: 4
-    packedSize: 128
-    offset: 898664
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1401081559601271925
-    classID: 4
-    packedSize: 68
-    offset: 898792
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1267438979427955054
-    classID: 1
-    packedSize: 35
-    offset: 898864
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1193370296064357210
-    classID: 1
-    packedSize: 43
-    offset: 898904
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -1027015914331032823
+  - fileID: 0
     classID: 28
-    packedSize: 876
-    offset: 898952
-    sourceAssetGUID: 61bd594533da4fc42bd46ef93ba5a4f6
-    buildTimeAssetPath: Assets/_PoiyomiShaders/Textures/Defaults/T_Default_SR.png
-  - fileID: -1016182452063655369
-    classID: 4
-    packedSize: 68
-    offset: 899832
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -992425809000303823
-    classID: 4
-    packedSize: 104
-    offset: 899904
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -753503912913003842
-    classID: 114
-    packedSize: 32
-    offset: 900008
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -665639350685882632
-    classID: 1
-    packedSize: 35
-    offset: 900040
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -595887889461644066
-    classID: 4
-    packedSize: 68
-    offset: 900080
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -589266855906740280
-    classID: 1
-    packedSize: 55
-    offset: 900152
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -406130376653178286
-    classID: 1
-    packedSize: 47
-    offset: 900208
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -288207498443787648
-    classID: 114
-    packedSize: 436
-    offset: 900256
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: -151281164330013743
-    classID: 114
-    packedSize: 404
-    offset: 900696
-    sourceAssetGUID: b14972b2a52d0d745814b668b8a9824f
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerExpressionParameters.asset
-  - fileID: -41838679711186287
-    classID: 1
-    packedSize: 43
-    offset: 901104
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1
-    classID: 142
-    packedSize: 2940
-    offset: 901152
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: AssetBundle Object
-  - fileID: 71112842252208275
-    classID: 1
-    packedSize: 43
-    offset: 904096
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 118357558325146711
-    classID: 115
-    packedSize: 92
-    offset: 160936
-    sourceAssetGUID: db48663b319a020429e3b1265f97aff1
-    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDKBase.dll
-  - fileID: 160945337633268377
-    classID: 4
-    packedSize: 80
-    offset: 904144
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 237110929954877170
-    classID: 43
-    packedSize: 1245704
-    offset: 904224
-    sourceAssetGUID: fca3f4bea7d36cc4ba10ccf737d56de9
-    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/puck.fbx
-  - fileID: 352518098835435175
-    classID: 4
-    packedSize: 80
-    offset: 2149928
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 414227956016713693
-    classID: 95
-    packedSize: 56
-    offset: 2150008
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 619012429672427163
-    classID: 74
-    packedSize: 2364
-    offset: 2150064
-    sourceAssetGUID: 42ce0d7768c853148b5321d1ea47846f
-    buildTimeAssetPath: Assets/AV-Puck/Anim/Anim1.anim
-  - fileID: 691822638413916777
-    classID: 1
-    packedSize: 43
-    offset: 2152432
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 700304045907490277
-    classID: 43
-    packedSize: 30096
-    offset: 2152480
-    sourceAssetGUID: edaa7cc4691113c4d95a902e68467c13
-    buildTimeAssetPath: Assets/AV-Puck/Bag.fbx
-  - fileID: 754276832546434973
-    classID: 114
-    packedSize: 472
-    offset: 2182576
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 797002843042367670
-    classID: 4
-    packedSize: 188
-    offset: 2183048
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 958720191777281209
-    classID: 4
-    packedSize: 68
-    offset: 2183240
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 975294442769398818
-    classID: 1
-    packedSize: 31
-    offset: 2183312
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1119166260276507425
-    classID: 1
-    packedSize: 39
-    offset: 2183344
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1144869520610211324
-    classID: 28
-    packedSize: 188
-    offset: 2183384
+    packedSize: 37188
+    offset: 287232
     sourceAssetGUID: 9ef89e0e946c9cc42b30f47b19d25174
     buildTimeAssetPath: Assets/AV-Puck/1.png
-  - fileID: 1251703487882192907
-    classID: 4
-    packedSize: 68
-    offset: 2183576
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1591158176785137943
-    classID: 4
-    packedSize: 80
-    offset: 2183648
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1798048492948733348
-    classID: 4
-    packedSize: 80
-    offset: 2183728
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1845045125884017433
-    classID: 4
-    packedSize: 80
-    offset: 2183808
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1857912524769874242
-    classID: 4
-    packedSize: 80
-    offset: 2183888
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1869126632862306536
-    classID: 4
-    packedSize: 92
-    offset: 2183968
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1890689056209498770
-    classID: 1
-    packedSize: 43
-    offset: 2184064
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1952257245016391776
-    classID: 4
-    packedSize: 80
-    offset: 2184112
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 1970766489188370388
-    classID: 1
-    packedSize: 39
-    offset: 2184192
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 2207337617554568216
-    classID: 4
-    packedSize: 80
-    offset: 2184232
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 2281054995483910298
-    classID: 1
-    packedSize: 35
-    offset: 2184312
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 2383549890157320861
-    classID: 114
-    packedSize: 436
-    offset: 2184352
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 2565930090691873852
-    classID: 1
-    packedSize: 35
-    offset: 2184792
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 2603654496562521358
-    classID: 4
-    packedSize: 68
-    offset: 2184832
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 2636019915209617396
-    classID: 4
-    packedSize: 80
-    offset: 2184904
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 2735425960021528433
-    classID: 4
-    packedSize: 68
-    offset: 2184984
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 2794118546358247812
-    classID: 4
-    packedSize: 68
-    offset: 2185056
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 2809062989499006451
-    classID: 4
-    packedSize: 68
-    offset: 2185128
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 3046559115101997552
-    classID: 74
-    packedSize: 2648
-    offset: 2185200
-    sourceAssetGUID: 2550faa91be2bf94c84bb6aee0e1cc32
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTColorWheel0.anim
-  - fileID: 3106009732638608414
-    classID: 4
-    packedSize: 68
-    offset: 2187848
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 3291073151998084339
-    classID: 1
-    packedSize: 47
-    offset: 2187920
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 3455317696892252835
-    classID: 21
-    packedSize: 1192
-    offset: 2187968
-    sourceAssetGUID: 9392597b64333d348ae9b39e3e95c086
-    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/Materials/Highlight.mat
-  - fileID: 3668991908064379111
-    classID: 4
-    packedSize: 68
-    offset: 2189160
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 3907083728785610832
-    classID: 1
-    packedSize: 179
-    offset: 2189232
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 3951612310993216430
-    classID: 74
-    packedSize: 2340
-    offset: 2189416
-    sourceAssetGUID: e110abbc62c1fa345953021b46b7ef42
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerOff.anim
-  - fileID: 4046610890466111788
-    classID: 4
-    packedSize: 80
-    offset: 2191760
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4099343106425743091
-    classID: 4
-    packedSize: 80
-    offset: 2191840
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4104166674685125861
-    classID: 114
-    packedSize: 92
-    offset: 2191920
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4359591440105675788
-    classID: 1
-    packedSize: 35
-    offset: 2192016
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4397448114112863584
-    classID: 1
-    packedSize: 39
-    offset: 2192056
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4455048164940089363
-    classID: 1
-    packedSize: 43
-    offset: 2192096
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4595683481992990457
-    classID: 4
-    packedSize: 80
-    offset: 2192144
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4613253760989352705
-    classID: 1
-    packedSize: 39
-    offset: 2192224
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4669742998233537362
-    classID: 1
-    packedSize: 51
-    offset: 2192264
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4707377450422491369
-    classID: 114
-    packedSize: 2456
-    offset: 2192320
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4803925139114929417
-    classID: 114
-    packedSize: 92
-    offset: 2194776
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 4813533575906080029
-    classID: 137
-    packedSize: 220
-    offset: 2194872
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5046968618087507760
-    classID: 1
-    packedSize: 31
-    offset: 2195096
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5086901936618471264
-    classID: 4
-    packedSize: 68
-    offset: 2195128
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5113287165981135289
-    classID: 21
-    packedSize: 38516
-    offset: 2195200
-    sourceAssetGUID: 4b7ed6ab5e121b84b99190600d3935ab
-    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/Materials/1.mat
-  - fileID: 5115523003888938554
-    classID: 1
-    packedSize: 31
-    offset: 2233720
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5157271759706100394
-    classID: 4
-    packedSize: 68
-    offset: 2233752
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5158257587811808659
-    classID: 1
-    packedSize: 39
-    offset: 2233824
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5164898628178758732
-    classID: 4
-    packedSize: 80
-    offset: 2233864
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5219350014923019800
-    classID: 1
-    packedSize: 47
-    offset: 2233944
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5309466143016058869
-    classID: 4
-    packedSize: 92
-    offset: 2233992
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5346320160286833548
-    classID: 4
-    packedSize: 80
-    offset: 2234088
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5399558935502509462
-    classID: 1
-    packedSize: 35
-    offset: 2234168
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5474224336498644822
-    classID: 137
-    packedSize: 1412
-    offset: 2234208
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5546911784255782565
-    classID: 1
-    packedSize: 43
-    offset: 2235624
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5614718897632248776
-    classID: 4
-    packedSize: 80
-    offset: 2235672
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5730175483032761749
-    classID: 4
-    packedSize: 128
-    offset: 2235752
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5811236578963775124
-    classID: 4
-    packedSize: 116
-    offset: 2235880
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5915889103824461084
-    classID: 1
-    packedSize: 35
-    offset: 2236000
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5966675308075193696
-    classID: 1
-    packedSize: 39
-    offset: 2236040
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 5988371994628817440
-    classID: 4
-    packedSize: 68
-    offset: 2236080
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6041093964684564340
-    classID: 4
-    packedSize: 68
-    offset: 2236152
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6098862368087470867
-    classID: 74
-    packedSize: 5308
-    offset: 2236224
-    sourceAssetGUID: fe8651e0359eacb49af5f71cc04eadd5
-    buildTimeAssetPath: Assets/VRCSDK/Examples3/Animation/ProxyAnim/proxy_hands_gun.anim
-  - fileID: 6269499415797110241
-    classID: 4
-    packedSize: 68
-    offset: 2241536
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6300019203559038474
-    classID: 1
-    packedSize: 39
-    offset: 2241608
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6345911269827931822
-    classID: 4
-    packedSize: 68
-    offset: 2241648
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6346244367623784677
-    classID: 74
-    packedSize: 5316
-    offset: 2241720
-    sourceAssetGUID: 9bad171d3023a114c8f42ea671be2af4
-    buildTimeAssetPath: Assets/VRCSDK/Examples3/Animation/ProxyAnim/proxy_hands_thumbs_up.anim
-  - fileID: 6423281249847124476
-    classID: 114
-    packedSize: 92
-    offset: 2247040
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6505936117910553694
-    classID: 1
-    packedSize: 39
-    offset: 2247136
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6537981715298070981
-    classID: 4
-    packedSize: 80
-    offset: 2247176
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6582343014895165957
-    classID: 95
-    packedSize: 56
-    offset: 2247256
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6715768693631048893
-    classID: 1
-    packedSize: 43
-    offset: 2247312
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6759095223083010242
-    classID: 1
-    packedSize: 39
-    offset: 2247360
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6778713675734609076
-    classID: 4
-    packedSize: 80
-    offset: 2247400
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6817418896907908011
-    classID: 1
-    packedSize: 35
-    offset: 2247480
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 6910110808692215498
-    classID: 1
-    packedSize: 35
-    offset: 2247520
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 7165436822894388464
-    classID: 4
-    packedSize: 68
-    offset: 2247560
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 7456824262842808571
-    classID: 96
-    packedSize: 406
-    offset: 2247632
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 7499474050467197087
-    classID: 1
-    packedSize: 51
-    offset: 2248040
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 7552050741272530566
-    classID: 4
-    packedSize: 128
-    offset: 2248096
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 7580078639875442304
-    classID: 74
-    packedSize: 2340
-    offset: 2248224
-    sourceAssetGUID: df4d83c6e815fb046bde67e78124bc8c
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerOn.anim
-  - fileID: 7660015255078512739
-    classID: 114
-    packedSize: 496
-    offset: 2250568
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 7802657991930603847
-    classID: 74
-    packedSize: 2232
-    offset: 2251064
-    sourceAssetGUID: 8e2ea5507baf67f4ba5c67a14083a370
-    buildTimeAssetPath: Assets/AV-Puck/Anim/Bag.anim
-  - fileID: 7830175601805791286
-    classID: 4
-    packedSize: 68
-    offset: 2253296
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 7900855401381441444
-    classID: 4
-    packedSize: 80
-    offset: 2253368
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 7947865042061579775
-    classID: 48
-    packedSize: 472564
-    offset: 2253448
-    sourceAssetGUID: 2953f9af801b609449d394f91a154e7c
-    buildTimeAssetPath: Assets/AV-Puck/Re Zero/Puck/Materials/OptimizedShaders/1/Shaders/S_Poiyomi_Toon.shader
-  - fileID: 7975784814834017098
-    classID: 4
-    packedSize: 80
-    offset: 2726016
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 7997201397709247762
-    classID: 114
-    packedSize: 100
-    offset: 2726096
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8027869857440066995
-    classID: 1
-    packedSize: 51
-    offset: 2726200
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8097945838085573344
-    classID: 21
-    packedSize: 23204
-    offset: 2726256
-    sourceAssetGUID: 7f7bb1a23f4f3ac4cb962ca163962716
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerMaterials/FlatColorTrail.mat
-  - fileID: 8128959100155274056
-    classID: 4
-    packedSize: 68
-    offset: 2749464
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8143420519928566493
-    classID: 115
-    packedSize: 148
-    offset: 161032
-    sourceAssetGUID: 2a2c05204084d904aa4945ccff20d8e5
-    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRC.SDK3.Dynamics.PhysBone.dll
-  - fileID: 8185896346591342612
-    classID: 74
-    packedSize: 2604
-    offset: 2749536
-    sourceAssetGUID: 06a549f339463f64e842f87394da29f7
-    buildTimeAssetPath: Assets/AV-Puck/Anim/Anim4.anim
-  - fileID: 8268836203660554979
-    classID: 115
-    packedSize: 124
-    offset: 161184
-    sourceAssetGUID: 67cc4cb7839cd3741b63733d5adf0442
-    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK3A.dll
-  - fileID: 8276216566799580320
+  - fileID: 0
     classID: 28
-    packedSize: 192
-    offset: 2752144
+    packedSize: 214289
+    offset: 324420
     sourceAssetGUID: 2c9b1fc62caa05245b2d5691922ed7e9
     buildTimeAssetPath: Assets/_PoiyomiShaders/Textures/Fur/Fur (3).jpg
-  - fileID: 8335677581449917365
-    classID: 4
-    packedSize: 68
-    offset: 2752336
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8391486746961795421
-    classID: 114
-    packedSize: 92
-    offset: 2752408
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8414114408032377331
-    classID: 4
-    packedSize: 104
-    offset: 2752504
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8450263922471785598
-    classID: 74
-    packedSize: 2344
-    offset: 2752608
-    sourceAssetGUID: c864eaafd377ac4479a6b1ea0d5c9a8b
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTMarkerInking.anim
-  - fileID: 8578107008981638695
-    classID: 74
-    packedSize: 2648
-    offset: 2754952
-    sourceAssetGUID: 3ca6f87edbbebea49a6500c8311a36d1
-    buildTimeAssetPath: Assets/QTMarker/QTMarkerAnimations/QTColorWheel1.anim
-  - fileID: 8644580289674450263
-    classID: 4
-    packedSize: 80
-    offset: 2757600
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8769085038273892844
-    classID: 4
-    packedSize: 68
-    offset: 2757680
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8789087807100501957
-    classID: 1
-    packedSize: 39
-    offset: 2757752
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8815008247013051115
-    classID: 1
-    packedSize: 43
-    offset: 2757792
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8865642315332185198
-    classID: 4
-    packedSize: 68
-    offset: 2757840
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 8983828147108920134
-    classID: 114
-    packedSize: 412
-    offset: 2757912
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 9092144474391137984
-    classID: 114
-    packedSize: 92
-    offset: 2758328
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 9099995482414347166
-    classID: 1
-    packedSize: 43
-    offset: 2758424
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 9110250871541610410
-    classID: 4
-    packedSize: 80
-    offset: 2758472
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
-  - fileID: 9169777608397823138
-    classID: 4
-    packedSize: 68
-    offset: 2758552
-    sourceAssetGUID: 16a2bd88b382e3540adfacaaf2137c9a
-    buildTimeAssetPath: Assets/prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab
---- !u!668709126 &7266629691685965762
-BuiltAssetBundleInfoSet:
-  bundleInfos:
-  - bundleName: prefab-id-v1_avtr_5a836806-ae50-4f39-98b2-531b4c58505e_0896350887.prefab.unity3d
-    bundleArchiveFile: 2
-    packagedFileIndices: 0000000001000000
-  - bundleName: awa
-    bundleArchiveFile: 5
-    packagedFileIndices: 04000000
