@@ -38,7 +38,7 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): COLOR
 	fixed4 col = mainTexture;
 	float alphaMultiplier = smoothstep(float4(0,0,0,0).x, float4(0,0,0,0).y, distance(getCameraPosition(), i.worldPos));
 	float OutlineMask = tex2D(_OutlineMask, TRANSFORM_TEX(poiMesh.uv[float(0)], _OutlineMask) + _Time.x * float4(0,0,0,0)).r;
-	clip(OutlineMask * float(0.0575) - 0.001);
+	clip(OutlineMask * float(0.09) - 0.001);
 	col = col * 0.00000000001 + tex2D(_OutlineTexture, TRANSFORM_TEX(poiMesh.uv[float(0)], _OutlineTexture) + _Time.x * float4(0,0,0,0));
 	col.a *= albedo.a;
 	col.a *= alphaMultiplier;

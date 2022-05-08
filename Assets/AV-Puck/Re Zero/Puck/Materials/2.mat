@@ -801,7 +801,7 @@ Material:
     - _LightingHSLIntensity: 1
     - _LightingIgnoreAmbientColor: 0
     - _LightingIndirectColorMode: 0
-    - _LightingMinLightBrightness: 0
+    - _LightingMinLightBrightness: 0.15
     - _LightingMinShadowBrightnessRatio: 0
     - _LightingMode: 0
     - _LightingMonochromatic: 0
@@ -984,7 +984,7 @@ Material:
     - _ShadowMix: 0
     - _ShadowMixThreshold: 0.5
     - _ShadowMixWidthMod: 0.5
-    - _ShadowOffset: 0
+    - _ShadowOffset: 0.355
     - _ShadowStrength: 1
     - _Smoothness: 0
     - _SmoothnessFrom: 1
@@ -1279,7 +1279,7 @@ Material:
     - m_start_glitterRandom: 0
     - m_start_glowInDarkEmissionOptions: 0
     - m_start_glowInDarkEmissionOptions1: 0
-    - m_start_lightingAdvanced: 0
+    - m_start_lightingAdvanced: 1
     - m_start_lightingHSL: 0
     - m_start_lightingModifiers: 1
     - m_start_manualFlipbookControl: 0

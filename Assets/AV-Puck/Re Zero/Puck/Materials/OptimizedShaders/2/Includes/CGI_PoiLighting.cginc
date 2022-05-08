@@ -287,7 +287,7 @@ UnityIndirect CreateIndirectLight(float3 normal)
             occlusion = lerp(1, POI2D_SAMPLER_PAN(_LightingAOTex, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)).r, float(1));
         }
         indirectLight.diffuse *= occlusion;
-        indirectLight.diffuse = max(indirectLight.diffuse, float(0));
+        indirectLight.diffuse = max(indirectLight.diffuse, float(0.15));
         indirectLight.specular *= occlusion;
     #endif
     return indirectLight;
@@ -479,7 +479,7 @@ void calculateBasePassLightMaps()
         {
             case 0: // Ramp Texture
             {
-                poiLight.rampedLightMap = lerp(1, UNITY_SAMPLE_TEX2D(_ToonRamp, poiLight.lightMap + float(0)).rgb, shadowStrength.r);
+                poiLight.rampedLightMap = lerp(1, UNITY_SAMPLE_TEX2D(_ToonRamp, poiLight.lightMap + float(0.355)).rgb, shadowStrength.r);
                 
                 if (float(0))
                 {
@@ -538,7 +538,7 @@ void calculateBasePassLightMaps()
                     
                     if (float(0) == 0) // Ramp Texture
                     {
-                        poiLight.rampedLightMap = lerp(1, UNITY_SAMPLE_TEX2D(_ToonRamp, poiLight.lightMap + float(0)).rgb, shadowStrength.r);
+                        poiLight.rampedLightMap = lerp(1, UNITY_SAMPLE_TEX2D(_ToonRamp, poiLight.lightMap + float(0.355)).rgb, shadowStrength.r);
                     }
                     else if (float(0) == 1) // Math Gradient
                     {
@@ -670,11 +670,11 @@ void calculateBasePassLightMaps()
                             albedo = lerp(albedo.rgb, ModifyViaHSL(albedo.rgb, HSLMod), float(1));
                         }
                         
-                        if (float(0) > 0)
+                        if (float(0.15) > 0)
                         {
                             poiLight.finalLighting = max(0.001, poiLight.finalLighting);
                             float finalluminance = calculateluminance(poiLight.finalLighting);
-                            finalLighting = max(poiLight.finalLighting, poiLight.finalLighting / max(0.0001, (finalluminance / float(0))));
+                            finalLighting = max(poiLight.finalLighting, poiLight.finalLighting / max(0.0001, (finalluminance / float(0.15))));
                             poiLight.finalLighting = finalLighting;
                         }
                         else

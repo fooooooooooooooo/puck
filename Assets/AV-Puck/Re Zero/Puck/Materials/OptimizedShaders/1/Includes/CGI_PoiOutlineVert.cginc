@@ -68,7 +68,7 @@ v2f vert(appdata v)
 	{
 		distanceOffset *= min(distance(_WorldSpaceCameraPos, mul(unity_ObjectToWorld, localPos).xyz), float(9999));
 	}
-	float3 offset = o.normal * (float(0.0575) * float(1) / 100) * outlineMask * distanceOffset;
+	float3 offset = o.normal * (float(0.09) * float(1) / 100) * outlineMask * distanceOffset;
 	
 	if (float(0) == 2)
 	{

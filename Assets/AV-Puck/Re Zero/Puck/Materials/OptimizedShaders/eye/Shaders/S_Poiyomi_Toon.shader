@@ -1239,7 +1239,7 @@ Shader "Hidden/Locked/.poiyomi/• Poiyomi Toon •/eye-eye"
 #define PROPM_MAINOPTIONS 1
 #define PROP_MAINTEX
 #define PROP_MAINTEXTUREUV 0
-#define PROP_MAINEMISSIONSTRENGTH 0.7
+#define PROP_MAINEMISSIONSTRENGTH 1.22
 #define PROP_BUMPMAPUV 0
 #define PROP_BUMPSCALE 1
 #define PROP_CLIPPINGMASKUV 0
@@ -2158,7 +2158,7 @@ Shader "Hidden/Locked/.poiyomi/• Poiyomi Toon •/eye-eye"
 #define PROPM_MAINOPTIONS 1
 #define PROP_MAINTEX
 #define PROP_MAINTEXTUREUV 0
-#define PROP_MAINEMISSIONSTRENGTH 0.7
+#define PROP_MAINEMISSIONSTRENGTH 1.22
 #define PROP_BUMPMAPUV 0
 #define PROP_BUMPSCALE 1
 #define PROP_CLIPPINGMASKUV 0
@@ -3073,7 +3073,7 @@ Shader "Hidden/Locked/.poiyomi/• Poiyomi Toon •/eye-eye"
 #define PROPM_MAINOPTIONS 1
 #define PROP_MAINTEX
 #define PROP_MAINTEXTUREUV 0
-#define PROP_MAINEMISSIONSTRENGTH 0.7
+#define PROP_MAINEMISSIONSTRENGTH 1.22
 #define PROP_BUMPMAPUV 0
 #define PROP_BUMPSCALE 1
 #define PROP_CLIPPINGMASKUV 0
@@ -3973,7 +3973,7 @@ Shader "Hidden/Locked/.poiyomi/• Poiyomi Toon •/eye-eye"
 #define PROPM_MAINOPTIONS 1
 #define PROP_MAINTEX
 #define PROP_MAINTEXTUREUV 0
-#define PROP_MAINEMISSIONSTRENGTH 0.7
+#define PROP_MAINEMISSIONSTRENGTH 1.22
 #define PROP_BUMPMAPUV 0
 #define PROP_BUMPSCALE 1
 #define PROP_CLIPPINGMASKUV 0

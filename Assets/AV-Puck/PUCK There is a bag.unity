@@ -727,6 +727,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bag
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: edaa7cc4691113c4d95a902e68467c13, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: edaa7cc4691113c4d95a902e68467c13, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -753,7 +757,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: edaa7cc4691113c4d95a902e68467c13, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.00004039117
+      value: 0.000092
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: edaa7cc4691113c4d95a902e68467c13, type: 3}
       propertyPath: m_LocalRotation.w
@@ -771,6 +775,10 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
+    - target: {fileID: 13700002, guid: edaa7cc4691113c4d95a902e68467c13, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d0f0c31199a16ec49ba023917dab31f3, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: edaa7cc4691113c4d95a902e68467c13, type: 3}
 --- !u!1 &667047391
@@ -2939,7 +2947,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
   completedSDKPipeline: 0
-  blueprintId: 
+  blueprintId: avtr_3e120271-cb95-46a5-9865-385c4575371e
   contentType: 0
   assetBundleUnityVersion: 
   fallbackStatus: 1

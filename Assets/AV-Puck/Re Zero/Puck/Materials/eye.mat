@@ -822,7 +822,7 @@ Material:
     - _MainColorAdjustTextureUV: 0
     - _MainDistanceFadeMax: 0
     - _MainDistanceFadeMin: 0
-    - _MainEmissionStrength: 0.7
+    - _MainEmissionStrength: 1.22
     - _MainFadeTextureUV: 0
     - _MainFadeType: 1
     - _MainHueShift: 0
